@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "jsx": "react",
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "outDir": "./build/",
+        "preserveConstEnums": true,
+        "removeComments": true,
+        "sourceMap": true
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
